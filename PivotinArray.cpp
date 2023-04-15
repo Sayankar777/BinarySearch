@@ -25,5 +25,6 @@ int main()
     int arr[5] = {7, 9, 1, 2, 3};
     int pivot = getPivot(arr, 5);
     cout << pivot << endl;
+    cout << "Every thing is fine" << endl;
     return 0;
 }
